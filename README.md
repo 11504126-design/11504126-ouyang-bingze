@@ -6,33 +6,26 @@
 </head>
 <body style="background-color: lightblue;">
 <h1>DOOM 2016 彩蛋簡介</h1>
- <hr>
-
- <h2>《魔鬼終結者2》熔岩大拇指</h2>
-    <p>在「鑄造廠」跳入熔岩死亡時，主角沉入前會向鏡頭豎起大拇指，致敬《魔鬼終結者2》T-800 經典結局。</p>
+<hr>
+<h2>《魔鬼終結者2》熔岩大拇指</h2>
+ <p>在「鑄造廠」跳入熔岩死亡時，主角沉入前會向鏡頭豎起大拇指，致敬《魔鬼終結者2》T-800 經典結局
+</p>
 <img src="https://i.ytimg.com/vi/zLVnOWrWz7k/hqdefault.jpg" width="480">
 <hr>
-
- <h2>Doomguy 玩偶</h2>
-    <p>經典隱藏收集要素，全遊戲 13 個主線任務中共有 26 隻。</p>
-    <img src="https://cdn.gamingheads.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/r/pro_big_2_13.jpg" width="350">
-
+<h2>Doomguy 玩偶</h2>
+<p>經典隱藏收集要素，全遊戲 13 個主線任務中共有 26 隻。</p>
+ <img src="https://cdn.gamingheads.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/r/pro_big_2_13.jpg" width="350">
 <hr>
-
 <h2>《上古卷軸5》膝蓋中箭冒險者</h2>
-    <p>在卡丁吉爾聖所深處可發現一具膝蓋中箭的骷髏，致敬天際省著名迷因台詞。</p>
-    <img src="https://i.ytimg.com/vi/0jE9L7cRk2o/hqdefault.jpg" width="480">
-
-<hr>
-
-<h2>初代 1993 經典地圖密室</h2>
-    <p>關卡中藏有隱藏拉桿，拉動後可開啟通往 1993 年初代像素關卡的傳送門。</p>
-    <img src="https://i.ytimg.com/vi/jWw9uD6-v3Q/hqdefault.jpg" width="480">
-
+<p>在卡丁吉爾聖所深處可發現一具膝蓋中箭的骷髏，致敬天際省著名迷因台詞。</p>
+ <img src="https://i.ytimg.com/vi/0jE9L7cRk2o/hqdefault.jpg" width="480">
  <hr>
-
-<h2>彩蛋影片</h2>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/zLVnOWrWz7k" frameborder="0" allowfullscreen></iframe>
+<h2>初代 1993 經典地圖密室</h2>
+ <p>關卡中藏有隱藏拉桿，拉動後可開啟通往 1993 年初代像素關卡的傳送門。</p>
+    <img src="https://i.ytimg.com/vi/jWw9uD6-v3Q/hqdefault.jpg" width="480">
+<hr>
+ <h2>彩蛋影片</h2>
+   <iframe width="560" height="315"src="https://www.youtube.com/embed/r7Esq9OE3go" frameborder="0"allowfullscreen></iframe>
 
 </body>
 </html>
