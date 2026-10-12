@@ -25,7 +25,7 @@ src="doom2016作業.jpeg" width="480">
 <h2>初代 1993 經典地圖密室</h2>
  <p>關卡中藏有隱藏拉桿，拉動後可開啟通往 1993 年初代像素關卡的傳送門。</p>
   <img 
- src="doom20161.jpeg" width="480">
+ src="doom20161.jpg" width="480">
 <img 
  src="doom20162.jpeg"width="480">
 
