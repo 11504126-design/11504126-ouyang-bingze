@@ -20,7 +20,7 @@
 <h2>《上古卷軸5》膝蓋中箭冒險者</h2>
 <p>在卡丁吉爾聖所深處可發現一具膝蓋中箭的骷髏，致敬天際省著名迷因台詞。</p>
  <img 
-src="https://www.reddit.com/r/Doom/comments/1h1pfbi/i_used_to_be_an_adventurer_like_you/" width="480">
+src="doom2016作業.jpeg" width="480">
  <hr>
 <h2>初代 1993 經典地圖密室</h2>
  <p>關卡中藏有隱藏拉桿，拉動後可開啟通往 1993 年初代像素關卡的傳送門。</p>
