@@ -31,6 +31,6 @@ src="doom2016作業.jpeg" width="480">
 
 <hr>
 <h2>彩蛋影片</h2>
-<iframe width="560" height="315" src="https://youtu.be/r7Esq9OE3go" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r7Esq9OE3go" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </body>
 </html>
