@@ -10,11 +10,11 @@
 <h2>《魔鬼終結者2》熔岩大拇指</h2>
  <p>在「鑄造廠」跳入熔岩死亡時，主角沉入前會向鏡頭豎起大拇指，致敬《魔鬼終結者2》T-800 經典結局
 </p>
-<img src="https://i.ytimg.com/vi/zLVnOWrWz7k/hqdefault.jpg" width="480">
+<img src="doom20167.png" width="480">
 <hr>
 <h2>Doomguy 玩偶</h2>
 <p>經典隱藏收集要素，全遊戲 13 個主線任務中共有 26 隻。</p>
- <img src="https://cdn.gamingheads.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/r/pro_big_2_13.jpg"
+ <img src="doom20163.webp"
   width="350">
 <hr>
 <h2>《上古卷軸5》膝蓋中箭冒險者</h2>
