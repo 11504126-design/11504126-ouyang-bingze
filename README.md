@@ -27,7 +27,7 @@ src="doom2016作業.jpeg" width="480">
   <img 
  src="https://i.ytimg.com/vi/qPqV67_K688/hqdefault.jpg" width="480">
 <img 
- src="https://i.ytimg.com/vi/jWw9uD6-v3Q/hqdefault.jpg" alt="1993 經典復古地圖房間" width="480">
+ src="https://i.ytimg.com/vi/jWw9uD6-v3Q/hqdefault.jpg"width="480">
 
 <hr>
  <h2>彩蛋影片</h2>
